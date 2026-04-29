@@ -2,7 +2,7 @@ Data Governance Portfolio — Babalola Temiloluwa
 > Hands-on data governance project demonstrating end-to-end implementation of enterprise data governance practices using **Microsoft Purview**, including data cataloging, metadata management, business glossary creation, data classification, and HIPAA-compliant asset stewardship.
 ---
 📋 Project Overview
-This portfolio project implements a complete data governance framework for the Diabetes 130-US Hospitals dataset (1999–2008) — a real-world healthcare dataset containing 101,766 patient records across 130 US hospitals. The project demonstrates core competencies required for a Data Governance Analyst role.
+This portfolio project implements a complete data governance framework for the Diabetes 130-US Hospitals dataset (1999–2008) a real world healthcare dataset containing 101,766 patient records across 130 US hospitals. The project demonstrates core competencies required for a Data Governance Analyst role.
 Detail	Info
 Dataset	Diabetes 130-US Hospitals (1999–2008)
 Source	UCI Machine Learning Repository
